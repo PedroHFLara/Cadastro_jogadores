@@ -4,6 +4,10 @@ body{
     margin: auto;
     text-align: center;
 }
+button{
+    background-color: black;
+    color: white;
+}
 
 pre {
     white-space: pre-wrap; 
