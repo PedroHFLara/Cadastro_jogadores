@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(0, 225, 255);
+    margin: auto;
+    text-align: center;
+}
+
+pre {
+    white-space: pre-wrap; 
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    font-family:'Times New Roman', Times, serif;
+    margin: auto;
+    text-align: center;
+    width: 100vh;
+  }
